@@ -1,6 +1,6 @@
 # Castaway
 Castaway is a diffusion model which runs on dreambooth model. It uses stable diffusion library to generate images.
-This model helps you to inject yourself into AI and make any images with your face. 
+This model helps you to inject yourself into AI and make any images with your face. It provides a personalized experience for the users, where the users can train their own photos, and with appropriate prompts, shall be able to visualize themselves in their dream avatars.
 
 ## To start with:
 The user needs to upload 15-20 pictures of themselves to get good results and slight modification needs to be made in terms of step size and intervals. 
